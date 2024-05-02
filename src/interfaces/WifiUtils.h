@@ -1,0 +1,11 @@
+#ifndef WIFI_UTILS_H
+#define WIFI_UTILS_H
+
+#include <WiFi.h>
+#include <Arduino.h>
+
+void showWifiIntense();
+void showTxPower();
+
+#endif
+
