@@ -1,6 +1,6 @@
-#include "./interfaces/HTTPClientController.h"
-#include "./interfaces/LEDControl.h"
-#include "./interfaces/ParseJSON.h"
+#include "HTTPClientController.h"
+#include "LEDControl.h"
+#include "ParseJSON.h"
 
 #include <Arduino.h>
 #include <WiFi.h>

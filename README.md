@@ -1,1 +1,1 @@
-# eagle-fox-collar
+# Eagle Fox Collar

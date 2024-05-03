@@ -1,4 +1,4 @@
-#include "./interfaces/LEDControl.h"
+#include "LEDControl.h"
 #include <Arduino.h>
 
 void outputLED(int pinLED, int timeDelay) {

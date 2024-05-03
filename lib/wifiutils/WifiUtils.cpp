@@ -1,4 +1,4 @@
-#include "./interfaces/WifiUtils.h"
+#include "WifiUtils.h"
 
 //            INSTRUCTIONS            //
 // Excellent: RSSI greater than -50 dBm
