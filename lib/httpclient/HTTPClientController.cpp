@@ -7,6 +7,8 @@
 #include <HTTPClient.h>
 
 
+
+// Send data to the server ENDPOINT
 bool sendDataServer(const String &dataSendEndpoint)
 {
   HTTPClient http;
